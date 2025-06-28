@@ -1,0 +1,7 @@
+Hiring-Process-Analytics/
+├── dataset/
+│   └── statistics.csv
+├── report/
+│   └── Hiring_Analytics_Report.pdf
+├── Hiring_Process_Analytics.ipynb
+├── README.md
